@@ -14,7 +14,7 @@ const findAverage = (arr) => {
 
 console.log(findAverage([1,2,3,4]));
 
-// KATA 3 7kyu
+// KATA 3 8kyu
 //https://www.codewars.com/kata/58ca658cc0d6401f2700045f
 const findMultiples = (int, limit) => {
   let arr = [];
